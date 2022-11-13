@@ -36,7 +36,7 @@ setup(
     install_requires=[
         'python-dateutil',
         'six',
-        'thumbor>=6.0.0,<7',
+        'thumbor>=7.2.0',
     ],
     extras_require={
         "tests": [
